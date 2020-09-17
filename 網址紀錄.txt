@@ -1,0 +1,5 @@
+LINE DEVELOPERS
+https://developers.line.biz/console/channel/1654920308/messaging-api?status=success
+
+LINE BOT SDK
+https://github.com/line/line-bot-sdk-python
