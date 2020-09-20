@@ -52,8 +52,8 @@ def handle_message(event):
         TextSendMessage(text=r))
 
     sticker_message = StickerSendMessage(
-        package_id='1',
-        sticker_id='1'
+        package_id='11537',
+        sticker_id='52002736'
     )
 
 
